@@ -1,0 +1,34 @@
+PAYROLL PROCESSING REPORT
+==================================================
+Processing Date: 2025-10-20 14:24:36
+Input Folder: input_files
+Output Folder: output
+
+PROCESSED FILES:
+--------------------
+✓ Chavisty West-Collins Time Sheet 10.10.25.xlsx
+✓ Latoya Pough Time Sheet 10.13.25.xlsx
+✓ Time sheet for LaTonia King 10.6-10.12.2025.xlsx
+✓ Elizabeth Walton Time Sheet 10.13.25.xlsx
+✓ Lucy Engel Time Sheet 10.13.25.xlsx
+✓ Elba Rodriguez Time Sheet 10.13.25.xlsx
+✓ Jessica Scoggins Time Sheet 10.13.25.xlsx
+✓ Jessica Alverio Time Sheet 10.13.25.xlsx
+✓ Timesheet.png
+
+EMPLOYEE DATA:
+--------------------
+Chavisty West-Collins: 32.0 hours (excel)
+La Toya Pough: 32.0 hours (excel)
+Elizabeth Walton: 24.5 hours (excel)
+Lucy Engel: 40.0 hours (excel)
+Elba Rodriguez: 40.0 hours (excel)
+Jessica Scoggins: 32.0 hours (excel)
+Jessica Alverio: 40.0 hours (excel)
+Chad Baker: 40 hours (image)
+
+SUMMARY:
+--------------------
+Total Employees: 8
+Total Hours: 280.5
+Average Hours: 35.1

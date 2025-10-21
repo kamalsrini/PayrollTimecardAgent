@@ -1,0 +1,18 @@
+{
+  "email": {
+    "email_url": "https://gmail.com",
+    "username": "your_email@example.com",
+    "password": "your_password"
+  },
+  "excel": {
+    "type": "google_sheets",
+    "username": "your_email@example.com",
+    "password": "your_password",
+    "sheet_url": "https://docs.google.com/spreadsheets/d/your_sheet_id/edit"
+  },
+  "adp": {
+    "login_url": "https://your-adp-portal.com",
+    "username": "your_adp_username",
+    "password": "your_adp_password"
+  }
+}
